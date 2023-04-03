@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the University of Passau advised by Professor Florian Lemmerich.
-I am particularly interested in interpretability of machine learning systems and understanding the learning process of neural networks.
+I am a PhD student at the University of Passau advised by Professor Florian Lemmerich.
+My work currently focuses on studying similarity of neural networks.
