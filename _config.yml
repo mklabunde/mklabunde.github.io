@@ -86,8 +86,9 @@ author:
   location         : "Passau, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : https://scholar.google.com/citations?user=UhJjJKAAAAAJ&hl=de
+  semanticscholar  : https://www.semanticscholar.org/author/Max-Klabunde/1707027340
+  email            : max.klabunde@uni-passau.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -180,6 +181,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
+    # permalink: /:path/
     permalink: /:collection/:path/
   portfolio:
     output: true

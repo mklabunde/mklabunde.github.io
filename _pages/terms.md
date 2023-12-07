@@ -6,7 +6,7 @@ modified: 2016-06-06
 
 {% include base_path %}
 {% include toc %}
-
+This website is hosted via github pages. The information below probably does not apply.
 ## Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
