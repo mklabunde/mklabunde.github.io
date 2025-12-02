@@ -1,5 +1,5 @@
 ---
-title: "Localizing reasoning training-induced changes in large language models"
+title: "Localizing Reasoning Training-Induced Changes in Large Language Models"
 collection: publications
 permalink: /publication/2025-localizing-reasoning-changes
 excerpt: ''
